@@ -25,7 +25,7 @@ This an Android App that helps you share/manage your files on your Android Devic
 
  Showdown is a selfhosted open source web app/server, you can use for remote planning poker® with scrum teams. Try at http://shwdwn.herokuapp.com/#/ 
  
- * [https://github.com/Foso/KotlinReactNativeMpp](https://github.com/Foso/KotlinReactNativeMpp) (Kotlin JS)
+* [KotlinReactNativeMpp](https://github.com/Foso/KotlinReactNativeMpp) (Kotlin JS)
  
   A ReactNative App written with Kotlin JS 
   
