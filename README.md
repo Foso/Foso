@@ -14,3 +14,24 @@ This is an example project that shows how to create a Kotlin Compiler Plugin.The
 * [MpApt](https://github.com/Foso/MpApt) (Kotlin JVM/JS/Native)
 
 Kotlin Native/JS/JVM Annotation Processor library for Kotlin compiler plugins 
+
+## Kotlin Multiplatform 
+
+* [Sheasy](https://github.com/Foso/Sheasy) (Kotlin JVM/JS)
+
+This an Android App that helps you share/manage your files on your Android Device through a WebInterface in the Browser - Built with Ktor and Kotlin-React 
+
+* [Showdown](https://github.com/Foso/Showdown) (Kotlin JVM/JS)
+
+ Showdown is a selfhosted open source web app/server, you can use for remote planning poker® with scrum teams. Try at http://shwdwn.herokuapp.com/#/ 
+ 
+ * [https://github.com/Foso/KotlinReactNativeMpp](https://github.com/Foso/KotlinReactNativeMpp) (Kotlin JS)
+ 
+  A ReactNative App written with Kotlin JS 
+  
+## Android
+
+* [https://github.com/Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
+
+ Community-driven collection of Jetpack Compose example code and tutorials rocket https://foso.github.io/compose 
+ 
