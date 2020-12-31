@@ -15,6 +15,11 @@ This is an example project that shows how to create a Kotlin Compiler Plugin.The
 
 Kotlin Native/JS/JVM Annotation Processor library for Kotlin compiler plugins 
 
+* [Cabret-Log](https://github.com/Foso/Cabret-Log) (Kotlin JVM/JS/Native)
+
+Method call logging for Kotlin Multiplatform 
+
+
 ## Kotlin Multiplatform 
 
 * [Sheasy](https://github.com/Foso/Sheasy) (Kotlin JVM/JS)
