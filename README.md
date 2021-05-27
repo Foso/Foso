@@ -4,7 +4,7 @@
 <a href="https://twitter.com/jklingenberg_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jklingenberg_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@jklingenberg_"></a>
 </p>
 
-I'm a software engineer who is passionate about open-source. I like experimenting with Kotlin, especially multiplatform projects. Here are some of my projects:
+I'm a software engineer and passionate about open-source. I like experimenting with Kotlin, especially multiplatform projects. Here are some of my projects:
 
 ## Kotlin Compiler
 * [KotlinCompilerPluginExample](https://github.com/Foso/KotlinCompilerPluginExample) (Kotlin JVM/JS/Native)
