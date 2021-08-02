@@ -6,6 +6,12 @@
 
 I'm a software engineer and passionate about open-source. I like experimenting with Kotlin, especially multiplatform projects. Here are some of my projects:
 
+## Android
+
+* [https://github.com/Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
+
+ Community-driven collection of Jetpack Compose example code and tutorials rocket https://foso.github.io/compose 
+
 ## Kotlin Compiler
 * [KotlinCompilerPluginExample](https://github.com/Foso/KotlinCompilerPluginExample) (Kotlin JVM/JS/Native)
 
@@ -34,9 +40,5 @@ This an Android App that helps you share/manage your files on your Android Devic
  
   A ReactNative App written with Kotlin JS 
   
-## Android
 
-* [https://github.com/Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
-
- Community-driven collection of Jetpack Compose example code and tutorials rocket https://foso.github.io/compose 
  
