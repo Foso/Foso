@@ -11,6 +11,11 @@ I'm a software engineer and passionate about open-source. I like experimenting w
 * [https://github.com/Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
 
  Community-driven collection of Jetpack Compose example code and tutorials rocket https://foso.github.io/compose 
+ 
+* [C-Crit_Generator](https://github.com/Foso/C-Crit_Generator)
+
+You want to store your critical secret keys in your Android App in a C file, but you don't want to deal with C? Let C-Crit Generator generate your C Keys file.
+  
 
 ## Kotlin Compiler
 * [KotlinCompilerPluginExample](https://github.com/Foso/KotlinCompilerPluginExample) (Kotlin JVM/JS/Native)
@@ -40,5 +45,3 @@ This an Android App that helps you share/manage your files on your Android Devic
  
   A ReactNative App written with Kotlin JS 
   
-
- 
