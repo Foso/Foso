@@ -50,3 +50,7 @@ This an Android App that helps you share/manage your files on your Android Devic
 * [Folders2kt](https://github.com/Foso/Folders2kt) (Kotlin JVM)
 
 A Interpreter/Transpiler for the Folders esoteric programming language, a language with no code and just folders, written in Kotlin 
+
+* [HtmlToComposeWebConverter](https://github.com/Foso/HtmlToComposeWebConverter) (Kotlin JVM)
+
+ Intellij-based Plugin that can convert HTML to Compose for Web code. 
