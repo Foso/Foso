@@ -8,7 +8,7 @@ I'm a software engineer and passionate about open-source. I like experimenting w
 
 ## Android
 
-* [https://github.com/Foso/Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
+* [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
 
  Community-driven collection of Jetpack Compose example code and tutorials rocket https://foso.github.io/compose 
  
