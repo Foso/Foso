@@ -33,13 +33,14 @@ Method call logging for Kotlin Multiplatform
 
 ## Kotlin Multiplatform 
 
-* [Sheasy](https://github.com/Foso/Sheasy) (Kotlin JVM/JS)
-
-This an Android App that helps you share/manage your files on your Android Device through a WebInterface in the Browser - Built with Ktor and Kotlin-React 
-
 * [Showdown](https://github.com/Foso/Showdown) (Kotlin JVM/JS)
 
  Showdown is a selfhosted open source web app/server, you can use for remote planning poker® with scrum teams. Try at http://shwdwn.herokuapp.com/#/ 
+ 
+ * [Sheasy](https://github.com/Foso/Sheasy) (Kotlin JVM/JS)
+
+This an Android App that helps you share/manage your files on your Android Device through a WebInterface in the Browser - Built with Ktor and Kotlin-React 
+
  
 * [KotlinReactNativeMpp](https://github.com/Foso/KotlinReactNativeMpp) (Kotlin JS)
  
