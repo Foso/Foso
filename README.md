@@ -15,7 +15,16 @@ I'm a software engineer and passionate about open-source. I like experimenting w
 * [C-Crit_Generator](https://github.com/Foso/C-Crit_Generator)
 
 You want to store your critical secret keys in your Android App in a C file, but you don't want to deal with C? Let C-Crit Generator generate your C Keys file.
-  
+
+## Kotlin
+
+* [HtmlToComposeWebConverter](https://github.com/Foso/HtmlToComposeWebConverter) (Kotlin JVM)
+
+ Intellij-based Plugin that can convert HTML to Compose for Web code. 
+
+* [Folders2kt](https://github.com/Foso/Folders2kt) (Kotlin JVM)
+
+A Interpreter/Transpiler for the Folders esoteric programming language, a language with no code and just folders, written in Kotlin 
 
 ## Kotlin Compiler
 * [KotlinCompilerPluginExample](https://github.com/Foso/KotlinCompilerPluginExample) (Kotlin JVM/JS/Native)
@@ -46,14 +55,6 @@ This an Android App that helps you share/manage your files on your Android Devic
  
   A ReactNative App written with Kotlin JS 
  
-## Other
 
-* [HtmlToComposeWebConverter](https://github.com/Foso/HtmlToComposeWebConverter) (Kotlin JVM)
-
- Intellij-based Plugin that can convert HTML to Compose for Web code. 
-
-* [Folders2kt](https://github.com/Foso/Folders2kt) (Kotlin JVM)
-
-A Interpreter/Transpiler for the Folders esoteric programming language, a language with no code and just folders, written in Kotlin 
 
 
