@@ -53,8 +53,11 @@ This an Android App that helps you share/manage your files on your Android Devic
  
 * [KotlinReactNativeMpp](https://github.com/Foso/KotlinReactNativeMpp) (Kotlin JS)
  
-  A ReactNative App written with Kotlin JS 
+A ReactNative App written with Kotlin JS 
  
+* [Ktorfit](https://github.com/Foso/Ktorfit)
+
+HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Js, Jvm, Android, Native, iOS) using KSP and Ktor clients inspired by Retrofit 
 
 
 
