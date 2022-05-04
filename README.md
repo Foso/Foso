@@ -1,10 +1,9 @@
 # Hi there  🙋‍♂️ 🙋‍, I am Jens
 
 
-<a href="https://twitter.com/jklingenberg_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/jklingenberg_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@jklingenberg_"></a>
-</p>
 
-I'm a software engineer and passionate about Open Source. I like experimenting with Kotlin, especially multiplatform projects. Here are some of my projects:
+I'm a software engineer and passionate about Open Source. I like experimenting with Kotlin, especially multiplatform projects. Here are some of my projects. If you like my work and you want to stay updated, please follow me on GitHub or <p align="left"><a href="https://twitter.com/jklingenberg_" target="blank"><img
+        src="https://img.shields.io/twitter/follow/jklingenberg_?logo=twitter&style=for-the-badge" alt="theapache64"/></a>
 
 ## Android
 
