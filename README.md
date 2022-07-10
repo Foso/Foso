@@ -9,7 +9,7 @@ I'm a software engineer and passionate about Open Source. I like experimenting w
 
 * [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
 
- Community-driven collection of Jetpack Compose example code and tutorials rocket https://foso.github.io/compose 
+ Community-driven collection of Jetpack Compose example code and tutorials https://foso.github.io/compose 
  
 * [C-Crit_Generator](https://github.com/Foso/C-Crit_Generator)
 
