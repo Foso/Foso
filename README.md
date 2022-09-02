@@ -5,15 +5,6 @@
 I'm a software engineer and passionate about Open Source. I like experimenting with Kotlin, especially multiplatform projects. Here are some of my projects. If you like my work and you want to stay updated, please follow me on GitHub or <p align="left"><a href="https://twitter.com/jklingenberg_" target="blank"><img
         src="https://img.shields.io/twitter/follow/jklingenberg_?logo=twitter&style=for-the-badge" alt="theapache64"/></a>
 
-## Android
-
-* [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
-
- Community-driven collection of Jetpack Compose example code and tutorials https://foso.github.io/compose 
- 
-* [C-Crit_Generator](https://github.com/Foso/C-Crit_Generator)
-
-You want to store your critical secret keys in your Android App in a C file, but you don't want to deal with C? Let C-Crit Generator generate your C Keys file.
 
 ## Kotlin Multiplatform 
 
@@ -34,6 +25,18 @@ This an Android App that helps you share/manage your files on your Android Devic
 * [KotlinReactNativeMpp](https://github.com/Foso/KotlinReactNativeMpp) (Kotlin JS)
  
 A ReactNative App written with Kotlin JS 
+
+
+## Android
+
+* [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) 
+
+ Community-driven collection of Jetpack Compose example code and tutorials https://foso.github.io/compose 
+ 
+* [C-Crit_Generator](https://github.com/Foso/C-Crit_Generator)
+
+You want to store your critical secret keys in your Android App in a C file, but you don't want to deal with C? Let C-Crit Generator generate your C Keys file.
+
  
 
 ## Kotlin
