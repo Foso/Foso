@@ -3,7 +3,7 @@
 
 
 I'm a software engineer and passionate about Open Source. I like experimenting with Kotlin, especially multiplatform projects. Here are some of my projects. If you like my work and you want to stay updated, please follow me on GitHub or <p align="left"><a href="https://twitter.com/jklingenberg_" target="blank"><img
-        src="https://img.shields.io/twitter/follow/jklingenberg_?logo=twitter&style=for-the-badge" alt="theapache64"/></a>
+        src="https://img.shields.io/twitter/follow/jklingenberg_?logo=twitter&style=for-the-badge" alt="foso"/></a>
 
 
 ## Kotlin Multiplatform 
