@@ -15,7 +15,7 @@ HTTP client / Kotlin Symbol Processor for Kotlin Multiplatform (Js, Jvm, Android
 
 * [Showdown](https://github.com/Foso/Showdown) (Kotlin JVM/JS)
 
- Showdown is a selfhosted open source web app/server, you can use for remote planning poker® with scrum teams. Try at http://shwdwn.herokuapp.com/#/ 
+ Showdown is a selfhosted open source web app/server, you can use for remote planning poker® with scrum teams. Try at http://showdown.fly.dev/#/ 
  
  * [Sheasy](https://github.com/Foso/Sheasy) (Kotlin JVM/JS)
 
