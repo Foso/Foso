@@ -33,11 +33,6 @@ A ReactNative App written with Kotlin JS
 
  Community-driven collection of Jetpack Compose example code and tutorials https://foso.github.io/compose 
  
-* [C-Crit_Generator](https://github.com/Foso/C-Crit_Generator)
-
-You want to store your critical secret keys in your Android App in a C file, but you don't want to deal with C? Let C-Crit Generator generate your C Keys file.
-
- 
 
 ## Kotlin
 
