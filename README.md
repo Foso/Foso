@@ -1,6 +1,6 @@
 # Hi there  🙋‍♂️ 🙋‍, I am Jens
 
-I'm a software engineer and passionate about Open Source. I like experimenting with Kotlin, especially multiplatform projects. Here are some of my projects. If you like my work and you want to stay updated, please follow me on:
+I'm a software engineer and passionate about Open Source. I like experimenting with Kotlin, in particular multiplatform projects. Here are some of my projects. If you like my work and you want to stay updated, please follow me on:
 * GitHub 
 * <a href="https://twitter.com/jklingenberg_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 * Mastodon: https://androiddev.social/@jensklingenberg
